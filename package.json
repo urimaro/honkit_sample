@@ -1,3 +1,6 @@
 {
-  "name": "honkit_sample"
+  "name": "honkit_sample",
+  "devDependencies": {
+    "honkit": "^3.6.6"
+  }
 }
